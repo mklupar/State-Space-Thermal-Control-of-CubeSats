@@ -1,6 +1,6 @@
 @mastersthesis{Klupar2025ThermalControl,
     author = {Marcus Klupar},
-    title = {State Space Thermal Control for CubeSats},
+    title = {State-Space Thermal Control for CubeSats},
     school = {Univerity of Arizona},
     year = {2025} 
 }
